@@ -1,0 +1,17 @@
+Rank,City,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+1,Victoria,67.8,41.3,56.2,80.5,67.1,91.5
+2,Toronto,66.8,43.5,56.6,71.1,70.7,109.2
+3,Vancouver,66.4,49.5,59,75,67.6,103.7
+4,Calgary,65,33.7,51.3,69.7,66.1,111.8
+5,Saskatoon,64.9,25.1,47.5,70.8,74.7,100.9
+6,Kelowna,63.6,34.4,50.8,71.4,65.1,102.5
+7,Halifax,63.3,35.9,51.3,72.6,64.2,101.7
+8,Regina,62.5,23.9,45.6,72.5,70.9,107.4
+9,Ottawa,61.7,34.9,50,67.3,66.9,131.7
+10,Montreal,61.6,29,47.3,68.8,66.8,118.8
+11,Mississauga,61.4,42,53,61.4,64.7,112.3
+12,Edmonton,61,29,47.1,68.3,62.9,112.2
+13,Winnipeg,60.1,25.5,45,67.1,61.9,112.4
+14,Quebec City,59.7,22.2,43.3,65.4,61.9,124.1
+15,Windsor,58.4,31.2,46.5,62,60.2,115.1
+16,London,56.3,36.8,47.8,58.1,66.8,109.8

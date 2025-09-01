@@ -1,0 +1,40 @@
+﻿"Income of individuals by age group, sex and income source, Canada, provinces and selected census metropolitan areas 1 2 3 4"
+"Frequency: Annual"
+"Table: 11-10-0239-01 (formerly CANSIM 206-0052)"
+"Release date: 2025-05-01"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada 5","Atlantic provinces","Newfoundland and Labrador","Prince Edward Island","Nova Scotia","New Brunswick","Quebec","Ontario","Prairie provinces","Manitoba","Saskatchewan","Alberta","British Columbia","Québec, Quebec","Montréal, Quebec","Ottawa-Gatineau, Ontario/Quebec","Toronto, Ontario","Winnipeg, Manitoba","Calgary, Alberta","Edmonton, Alberta","Vancouver, British Columbia"
+"Age group","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6","15 years and over 6"
+"Sex","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes","Both sexes"
+"Income source","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income","Total income"
+"Statistics","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023","2023"
+,"Number",,,,,,,,,,,,,,,,,,,,
+"Number of persons  (x 1,000)","33,078","2,180","459","148","878","695","7,343","13,062","5,900","1,108","939","3,853","4,594","747","3,823","1,342","5,973","751","1,390","1,346","2,504"
+"Number with income  (x 1,000)","32,099","2,125","448","145","855","678","7,202","12,622","5,678","1,074","907","3,697","4,471","737","3,724","1,304","5,733","726","1,330","1,288","2,427"
+,"2023 constant dollars",,,,,,,,,,,,,,,,,,,,
+"Aggregate income  (x 1,000,000)","1,905,953","109,088","23,983","7,227","44,103","33,775","405,826","767,549","347,100","57,993","52,245","236,863","276,390","44,147","216,809","86,355","364,651","40,271","88,858","80,792","155,772"
+"Average income (excluding zeros)","59,400","51,300","53,600","50,000","51,600","49,800","56,300","60,800","61,100","54,000","57,600","64,100","61,800","59,900","58,200","66,200","63,600","55,500","66,800","62,700","64,200"
+"Median income (excluding zeros)","45,400","41,300","39,800","42,600","41,700","41,500","45,300","45,400","46,300","44,000","45,400","47,700","46,300","50,000","45,600","54,000","44,000","45,100","46,100","49,100","46,300"
+
+Symbol legend:
+A, data quality: excellent
+B, data quality: very good
+
+
+
+
+Footnotes:
+1,"Source: Centre for Statistics on Housing and Income, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (1976 to 1992: CV greater than or equal to 16%; 1993 and subsequent years: CV between 16% and 33.3% )."
+3,"Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009."
+4,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+5,"Estimates for Canada do not include the territories."
+6,""16 years and over'' for years prior to 2022."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0239-01  Income of individuals by age group, sex and income source, Canada, provinces and selected census metropolitan areas"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901

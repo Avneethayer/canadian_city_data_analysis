@@ -1,0 +1,41 @@
+City,Avg_Summer_Temp (°C),Avg_Winter_Temp (°C),Avg_Yearly_Temp (°C)
+Vancouver,18.2,3.2,10.7
+Victoria,17.9,4,11
+Kelowna,22.4,-2,9.3
+Nanaimo,17.5,3.5,10.5
+Kamloops,23,-4,9.5
+Calgary,17,-7,5
+Edmonton,16,-10,3
+Lethbridge,19,-6,6.5
+Red Deer,16.5,-9.5,3.5
+Saskatoon,17,-11,2.5
+Regina,16.5,-10.5,3
+Winnipeg,16,-14,1
+Brandon,16.5,-13.5,2
+Thompson,15,-20,-2.5
+Toronto,21,-4,8.5
+Hamilton,20.5,-3.5,8.5
+London,20,-4.5,7.8
+Kitchener,19.5,-5,7.3
+Waterloo,19,-5.5,6.8
+Kingston,18.5,-6,7
+Thunder Bay,16,-10,3
+Trois-Rivières,18,-6,6
+Sherbrooke,17.5,-7,5.5
+Halifax,17,0,8.5
+Fredericton,18,-5,6.5
+Moncton,17.5,-4.5,6
+Saint John,17,-5.5,5.8
+Charlottetown,16.5,-5,5.8
+St. John's,11,-1.5,4
+Corner Brook,12,-2,4.5
+Gander,11.5,-3.5,4
+Yellowknife,15,-17,-1
+Whitehorse,18,-10,4
+Sarnia,20,-4,7.5
+Prince George,18.5,-6.5,6
+Brooks,20,-5,7.5
+Steinbach,17,-13,2
+Barrie,19,-5,7
+Québec City,17,-8,4.5
+Montréal,19,-6,7
